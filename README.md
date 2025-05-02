@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muratkokcu
 - 👀 I’m interested in Javascript, React and Wordpress
-- 📫 How to reach me muratkokcu.92@gmail.com
+- 📫 How to reach me info@muratkokcu.com
 
 <!---
 muratkokcu/muratkokcu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
