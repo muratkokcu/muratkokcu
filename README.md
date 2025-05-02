@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @muratkokcu
 - 👀 I’m interested in Javascript, React and Wordpress
-- 🌱 I’m currently learning Javascript, React
-- 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me muratkokcu.92@gmail.com
 
 <!---
